@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.roblox.com" target="blank"><img src="https://o.remove.bg/downloads/2daba013-719b-4e8f-a738-8840fc543459/rbgebzd54uexaaqdnzrs-removebg-preview.png" width="200" height="200" alt="ROBLOX LOGO" /></a>
+  <a href="https://www.roblox.com" target="blank"><img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/0/e/e/0eeeb19633422b1241f4306419a0f15f39d58de9.png" width="200" height="200" alt="ROBLOX LOGO" /></a>
 </p>
 
 ## 👋 Description
